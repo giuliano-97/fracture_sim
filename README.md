@@ -4,7 +4,7 @@
 
 A GPU enabled fracture simulation of fragile objects. This is a small-side project which I started to teach myself a bit of CUDA programming and some principles of physics-based simulation (recently migrated from a GitLab).
 
-# Literature
+### Literature
 
 The approach used is exactly the one described in https://cal.cs.umbc.edu/Papers/Levine-2014-APP/, though to render the simulation data I used the approach described in https://jalevine.bitbucket.io/pubs/c/2015/12/18/extracting-surface-geometry.html. 
 
